@@ -8,7 +8,7 @@ It is a **Node.js REST API** that accepts an array of data and returns categoriz
 
 ## 🔗 Hosted API
 
-> 🧪 Live URL: [`https://skillzen.tech/bhfl`](https://skillzen.tech/bhfl)  
+> 🧪 Live URL: [`https://skillzen.tech/bfhl`](https://skillzen.tech/bfhl)  
 
 ---
 
